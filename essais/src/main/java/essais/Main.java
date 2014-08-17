@@ -7,6 +7,8 @@ public class Main {
 
 		MyClass c1 = new MyClass("featureA");
 		MyClass c2 = new MyClass("initvC");
+		
+		System.out.println("end");
 	}
 
 }
