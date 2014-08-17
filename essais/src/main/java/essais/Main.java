@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("initial");
 
 		MyClass c1 = new MyClass("init");
+		MyClass c2 = new MyClass("initvC");
 	}
 
 }
